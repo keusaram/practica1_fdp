@@ -1,0 +1,14 @@
+Osorio Aldama Janet Olivia
+Grupo: 2
+12 /02 /2019
+Objetivos: Creación de cuenta en github.com. Para comenzar a utilizar github. 
+•	Iniciamos abriendo un navegador web con la dirección  https://github.com, dando click en “Sign Up”, para poder acedar a una cuenta. 
+•	Después proporcionando un correo, contraseña y un nombre de usuario, damos click en “Create an account”, eligiendo el plan gratuito. 
+•	Damos click en “skip this step”, esperando un correo de verificación, para poder verificar así nuestra cuenta.
+•	Es así como comenzamos a iniciar nuestro primer repositorio; damos click en el botón de “Start a Project”, creando el repositorio al que nombramos práctica 1 y dando una pequeña descripción. Seguidamente damos click en “Create repository”.
+•	Realizamos click en el botón de “Create new file”. Creando un archivo de datos; en la primera línea escribimos nuestro nombre, además de volver a realizar una corta   descripción del archivo creado. Después del paso anterior daremos click en Commit new file.
+•	Esto nos garantiza el haber realizado un nuevo archivo en nuestro repositorio, lo cual con el commit podemos indicarle al Control de versiones que hemos terminado una nueva modificación o agrego. 
+•	También nos enseñan como subir imágenes a nuestro repositorio, dando click en el botón de “Upload files”. Realizando el commit y explicando los archivos agregados.  
+•	 En este caso los archivos que subimos a nuestro repositor pueden ser modificados. Dando click en datos y continuamos dando click en la figura en forma de lápiz. Agregado n° de cuenta y correo electrónico. 
+•	Hacemos el commit explicando qué cambios hicimos.
+•	Finalmente aprendimos como revisar la historia de nuestro repositorio. Observando las modificaciones y las agregaciones que se hicieron, así como los Git que guarda cada estado de nuestros archivos. Y regresara versiones específicas.   
